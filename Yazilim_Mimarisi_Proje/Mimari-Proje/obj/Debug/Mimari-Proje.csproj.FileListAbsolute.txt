@@ -1,0 +1,70 @@
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/bin/Debug/Mimari-Proje.exe.config
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/bin/Debug/Mimari-Proje.exe
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/bin/Debug/Mimari-Proje.pdb
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.AssemblyReference.cache
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari_Proje.Properties.Resources.resources
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.GenerateResource.cache
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.CoreCompileInputs.cache
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.exe
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.pdb
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari_Proje.frmRezervasyon.resources
+C:/Users/Black/source/repos/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari_Proje.frmRezervasyonBilgileri.resources
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.AssemblyReference.cache
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.SuggestedBindingRedirects.cache
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari_Proje.frmRezervasyon.resources
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari_Proje.frmRezervasyonBilgileri.resources
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari_Proje.Properties.Resources.resources
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.GenerateResource.cache
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.CoreCompileInputs.cache
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.exe
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.pdb
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/bin/Debug/Mimari-Proje.exe.config
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/bin/Debug/Mimari-Proje.exe
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/bin/Debug/Mimari-Proje.pdb
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/bin/Debug/Newtonsoft.Json.dll
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/bin/Debug/Newtonsoft.Json.xml
+C:/Users/salih/Desktop/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.CopyComplete
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.AssemblyReference.cache
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.SuggestedBindingRedirects.cache
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari_Proje.frmRezervasyon.resources
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari_Proje.frmRezervasyonBilgileri.resources
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari_Proje.Properties.Resources.resources
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.GenerateResource.cache
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.CoreCompileInputs.cache
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/bin/Debug/Mimari-Proje.exe.config
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/bin/Debug/Mimari-Proje.exe
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/bin/Debug/Mimari-Proje.pdb
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.CopyComplete
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.exe
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Mimari-Proje/Mimari-Proje/obj/Debug/Mimari-Proje.pdb
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/bin/Debug/Mimari-Proje.exe.config
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/bin/Debug/Mimari-Proje.exe
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/bin/Debug/Mimari-Proje.pdb
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.AssemblyReference.cache
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.SuggestedBindingRedirects.cache
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari_Proje.frmRezervasyon.resources
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari_Proje.frmRezervasyonBilgileri.resources
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari_Proje.Properties.Resources.resources
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.GenerateResource.cache
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.CoreCompileInputs.cache
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.CopyComplete
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.exe
+C:/Users/Alptekin/Desktop/Yeni klasör (3)/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.pdb
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/bin/Debug/Mimari-Proje.exe.config
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/bin/Debug/Mimari-Proje.exe
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/bin/Debug/Mimari-Proje.pdb
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/bin/Debug/Newtonsoft.Json.dll
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/bin/Debug/Newtonsoft.Json.xml
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.AssemblyReference.cache
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari_Proje.frmRezervasyon.resources
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari_Proje.frmRezervasyonBilgileri.resources
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari_Proje.Properties.Resources.resources
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.GenerateResource.cache
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.CoreCompileInputs.cache
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.csproj.CopyComplete
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.exe
+/Users/bugrabilgecelik/Downloads/Yazılım Mimarisi ve Tasarımı Dönem Ödevi/Yazilim_Mimarisi_Proje/Mimari-Proje/obj/Debug/Mimari-Proje.pdb
