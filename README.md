@@ -1,4 +1,4 @@
-# YazilimMimarisiVeTasarimiDonemOdevi
+# Tatil Konaklama Ulaşım Sistemi
 
 Projede istenenler doğrultusunda kullanıcı tarafından seçilen konaklama ve ulaşım seçeneklerinin verilerini programa çekmek için Data Access Object (DAO) Tasarım Deseni, seçilen konaklama yönteminin nesnesinin üretimi için Factory Tasarım Deseni, aynı şekilde seçilen ulaşım yönteminin nesnesinin üretimi için Factory Tasarım deseni, oluşturulan Rezervasyon bilgilerinin istenilen sırada ve XML, HTML, JSON seçeneklerinden biriyle bastırabilmesi için de Builder Tasarım deseni kullanılmıştır.
 
